@@ -1,0 +1,2 @@
+A=0, B=0 Resultado más probable: Suma = 0, Acarreo = 0
+Distribución completa de resultados: {'00': 1024}

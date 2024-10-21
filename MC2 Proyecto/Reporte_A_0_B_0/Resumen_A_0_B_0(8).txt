@@ -1,0 +1,8 @@
+Resumen para A=0, B=0:
+- Se inicializan los qubits A y B en los estados 0 y 0, respectivamente.
+- Se aplica la puerta CNOT para obtener la suma (A xor B).
+- Se aplica la puerta Toffoli (CCNOT) para obtener el acarreo (A . B).
+- Se mide el qubit 1 para la suma y el qubit 2 para el acarreo.
+- El resultado más probable es suma = 0, acarreo = 0.
+- Se genera un histograma que muestra la probabilidad de cada resultado posible.
+- Finalmente, se muestran los estados de entrada de los qubits A y B en un gráfico.
